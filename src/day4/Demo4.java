@@ -6,5 +6,10 @@ public class Demo4 {
 
 		System.out.println("Day 4 demo...");
 	}
+	
+	
+	public void add() {
+		System.out.println(1+1);
+	}
 
 }
